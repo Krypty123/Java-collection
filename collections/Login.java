@@ -113,5 +113,6 @@ public class Login {
 		passwordField = new JPasswordField();
 		passwordField.setBounds(144, 109, 86, 20);
 		frame.getContentPane().add(passwordField);
+		System.out.println("Hello world");
 	}
 }
